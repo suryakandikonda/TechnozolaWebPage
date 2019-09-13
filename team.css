@@ -1,0 +1,29 @@
+.logo
+{
+	height:60px;
+	padding:0px 10px 0px 10px;
+
+}
+
+#navbar .navbar
+{
+	text-align:right;
+	background:url("eventsbg.jpg");
+	border-bottom:#fff 03px solid;
+}
+#navbar .navbar a
+{
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+}
+#navbar .navbar a:hover
+{
+	background-color:white;
+	color:black;
+}
+#banner
+{
+	padding: 30px 0px 200px 0px;
+	background:url("eventsbg.jpg");
+}
